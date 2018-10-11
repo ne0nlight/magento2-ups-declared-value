@@ -13,7 +13,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Xantek\\UpsDecalredValue\\": "",
+      "Xantek\\UpsDeclaredValue\\": "",
       "files": [ "registration.php" ]
     }
   }
